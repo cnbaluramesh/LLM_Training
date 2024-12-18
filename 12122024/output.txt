@@ -1,0 +1,50 @@
+Jessica Holland,anelson@example.com,NA,I am looking for help with approval for external software use.
+Brent Smith,iwhite@example.com,NA,help regarding recovery of accidentally deleted files
+Dwayne Cortez,NA,50523,I'm looking for help with access to the shared folder.
+Kathryn Mccall,NA,38016,fixing issues with remote access to the desktop.
+Paula Bennett,NA,81921,fixing issues with remote access to the desktop
+Nancy Leblanc,wendysmith@example.org,NA,ask for access to the shared folder.
+Andrew Byrd,michellestevenson@example.net,NA,fixing my system's audio issues.
+John Wyatt,mbrown@example.net,NA,I’d like to request support for configuration of mobile device for office emails.
+Brenda Johnson,kevinpatterson@example.net,NA,request for ergonomic accessories for my desk.
+Tony Wallace,catherinehansen@example.org,NA,request creating automated reports for weekly meetings
+Jennifer Gutierrez,travisrodriguez@example.net,NA,Could you provide support for changing my office phone number in the directory.
+Julie Hughes,NA,29445,installation of a licensed application
+Vanessa Bass,evang@example.net,NA,help me with creating automated reports for weekly meetings.
+Kenneth Moss Jr.,NA,71885,I’d like some support for guidance on data backup procedures.
+Paul Duncan,NA,43327,I am looking for help with approval for leave.
+Carly Delgado,NA,78331,Would you assist me with adding a network printer to my system.
+Lynn Campbell,nicolesimmons@example.com,NA,asking for updating my desktop hardware configuration.
+Rachel Freeman,ysmith@example.com,NA,help with network connectivity issues
+Michael Diaz,jacksondavid@example.com,NA,help with formatting documents for official use
+Charlene Cuevas,NA,84616,in need of upgrade for my software
+Margaret Haley,kellypearson@example.com,NA,requesting renewal of my software license
+Lynn Campbell,NA,84816,Help with setting up a video conference.
+Roberto Simmons,jasonnelson@example.net,NA,approval for extended working hours
+Patrick Miller,michaelyoung@example.com,NA,Please help me with extending system login session time.
+Charlene Cuevas,NA,84616,I’m reaching out to ask for technical support for my device.
+Patricia Hill,jpalmer@example.com,NA,request updating my desktop hardware configuration.
+Kevin King,NA,89917,I'm looking for help with approval for accessing sensitive project data.
+Richard Wang,debra73@example.org,NA,troubleshooting email delivery issues
+Jessica Stone,NA,72148,I would like to request fixing issues with remote access to the desktop.
+Margaret Smith,xsmith@example.com,NA,I'd like some support for enabling multi-factor authentication for my account.
+David Powell,NA,91005,I need request for administrative rights on my device.
+Benjamin Lawson,henryvictor@example.com,NA,I want to request troubleshooting a software crash issue.
+Jessica Gordon,daniel94@example.com,NA,Can you please help me with installation of custom scripts for automation.
+Cory Newton,NA,38024,looking for help with replacement of my damaged laptop.
+Kristin Bishop,pjackson@example.com,NA,creating automated reports for weekly meetings.
+Tina Short,NA,98146,Could you guide me on help with exporting data from internal systems.
+Kristen Black,grobbins@example.net,NA,help regarding help with my account credentials
+Alexandra Jenkins,jbrandt@example.net,NA,help with configuring VPN on my mobile device.
+Evan Reese,NA,53039,upgrade for my software
+Karina Watson,NA,48141,resetting my access token
+Elizabeth Sanchez,grahamheather@example.com,NA,fixing issues with remote access to the desktop.
+Wendy Lynch,scottblake@example.com,NA,request training for new project management tools
+Cheryl Gomez,gomezalex@example.org,NA,I’m looking for help with approval for attending an external training session.
+David Decker,NA,67135,support for unlocking a protected document
+Alec Chaney,alexanderbruce@example.org,NA,extending system login session time
+Melanie Lynch,NA,87988,I’d like to ask for upgrade for my software.
+Tony Wallace,NA,16371,adding a network printer to my system
+Jackie Castro,NA,75186,assistance for recovery of accidentally deleted files
+David Powell,anthonyyang@example.org,NA,customizing application settings for my role.
+Gregory Johnson,moorebethany@example.org,NA,request support for temporary system access for a visitor.

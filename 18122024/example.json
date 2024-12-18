@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Ajay Kumar",
+        "email": "ajay.kumar@example.com",
+        "age": 23,
+        "city": "Delhi"
+    },
+    {
+        "id": 2,
+        "name": "Rohit Sharma",
+        "email": "rohit.sharma@example.com",
+        "age": 26,
+        "city": "Mumbai"
+    },
+    {
+        "id": 3,
+        "name": "Sandesh Tukrul",
+        "email": "sandesh.tukrul@example.com",
+        "age": 23,
+        "city": "Noida"
+    }
+]

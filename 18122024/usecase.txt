@@ -1,0 +1,24 @@
+chat with text file
+chat with pdf
+chat with website
+chat with wikipedia
+summarise from textfile, pdf file,website and wiki pedia 
+and same for multiple objects 
+
+Reference URL:
+
+https://www.nomidl.com/generative-ai/document-loaders-in-langchain/ 
+
+TextLoader
+CSVLoader
+JSONLoader
+DirectoryLoader
+PyPDFLoader
+ArxivLoader
+Docx2txtLoader
+WebBaseLoader
+UnstructuredFileLoader
+UnstructuredURLLoader
+YoutubeAudioLoader
+NotionDirectoryLoader
+
